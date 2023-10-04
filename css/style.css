@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700&display=swap');
+
+.header1 {
+  width: 1440px;
+  margin: auto;
+  background-color: rgba(42, 157, 143, 1);
+}
+
+.logo1 {
+  width: 45.996px;
+  height: 46px;
+  margin-left: 130px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.nav1 {
+  display: inline-block;
+  list-style: none;
+}
+
+.li1 {
+
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.Text {
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  font-family: 'Nerko One', cursive;
+
+}
+
+.m_post1 {
+  margin-left: 357px;
+}
+
+.m_post2 {
+  margin: 0 52px;
+}
+
+.Bergabung {
+  font-size: 20px;
+  color: rgba(42, 157, 143, 1);
+  background-color: #FFF;
+  display: inline-block;
+  margin: 42px 0;
+  margin-left: 373px;
+  padding: 8px 16px;
+}
+
+.info {
+  margin: auto;
+  width: 780px;
+  margin-top: 200px;
+  margin-left: 549px;
+}
+
+.title1 {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500px;
+  color: #4D4D4D;
+  line-height: 130%;
+  letter-spacing: 0.24px;
+}
+
+.paragraph1 {
+  font-size: 20px;
+  line-height: 150%;
+  font-family: 'Nerko One', cursive;
+}
+
+.top_one {
+  margin: 60px 0;
+}
+
+.tree {
+  width: 1440px;
+  background-color: #C2F3EE;
+  margin: 200px 0;
+}
+
+.photo1 {
+  padding: 80px 130px;
+  vertical-align: middle;
+}
+
+article {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h2 {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 32px;
+  color: #272727;
+  margin-bottom: 27px;
+}
+
+.paragraph2 {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 18px;
+  color: #515151;
+  font-style: italic;
+}
+
+.Text2 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.button {
+  background-color: #2A9D8F;
+  padding: 11px 16px;
+  color: rgba(255, 255, 255, 1);
+}

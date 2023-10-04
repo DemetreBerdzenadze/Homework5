@@ -51,7 +51,7 @@
 }
 
 .info {
-  margin: auto;
+  margin: 200px auto;
   width: 780px;
   margin-top: 200px;
   margin-left: 549px;
@@ -87,7 +87,7 @@
   vertical-align: middle;
 }
 
-article {
+div {
   display: inline-block;
   vertical-align: middle;
 }
@@ -117,4 +117,89 @@ h2 {
   background-color: #2A9D8F;
   padding: 11px 16px;
   color: rgba(255, 255, 255, 1);
+  margin-top: 45px;
+}
+
+.nature {
+  width: 1180px;
+  margin: auto;
+}
+
+.title2 {
+  font-size: 48px;
+  font-style: normal;
+  line-height: 130%;
+  letter-spacing: 0.24px;
+  font-weight: 500;
+  color: rgba(77, 77, 77, 1);
+  margin: auto;
+}
+
+.image {
+  margin-top: 54px;
+}
+
+.name {
+  color: #535353;
+  display: inline-block;
+  margin-top: 32px;
+  margin-bottom: 200px;
+  line-height: 36px;
+  letter-spacing: 0.12px;
+  font-style: normal;
+}
+
+.mountain {
+  color: #535353;
+  margin-left: 20px;
+  letter-spacing: 0.12px;
+  line-height: 36px;
+  font-style: normal;
+}
+
+footer {
+  width: 1440px;
+  margin: auto;
+  background-color: #2A9D8F;
+}
+
+.logo2 {
+  width: 98px;
+  height: 98px;
+  padding: 22px 27.359px 21.621px 28px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h4 {
+  font-size: 20px;
+  font-style: normal;
+  line-height: 30px;
+  color: #FFF;
+}
+
+.li2 {
+  color: #FFF;
+  list-style: none;
+  margin-top: 21PX;
+  font-size: 18px
+}
+
+.EVENT {
+  margin-bottom: 5px;
+}
+
+.h4_and_li {
+  margin-left: 700px;
+  vertical-align: middle;
+
+}
+
+.second_lsit {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.Programs {
+  margin-bottom: 21px;
 }
